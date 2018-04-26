@@ -1,4 +1,4 @@
-# startup Lovelace2
+# Startup Lovelace n°2
 
 Ce repo est pour tout ce qui concerne ton activité à BeCode : briefings, parcours, etc.
 Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises à jour.
@@ -12,8 +12,8 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 ## Retards et absences
 
 - Si tu dois fixer un rendez-vous quelconque, fixe-le le **mardi matin** (sois de retour pour 13h25).
-- Si vraiment tu ne peux faire autrement, préviens nous **au moins un jour à l'avance** en envoyant un email à alexandre@becode.org  ET bertrand@becode.org . Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
-- Malade ? Montre un certificat médical valide et préviens-nous par email aussitôt que possible.
+- Si vraiment tu ne peux faire autrement, préviens nous **au moins un jour à l'avance** en envoyant un email à alexandre@becode.org, bertrand@becode.org ET admin@becode.org.
+- Malade ? Montre un certificat médical valide dans les 2 jours et préviens-nous par email aussitôt que possible.
 
 ## Contenus pédagogiques
 
