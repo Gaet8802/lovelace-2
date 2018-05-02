@@ -20,6 +20,7 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 - [Parcours](/Parcours) : les parcours sont des tutoriels à faire en solitaire, alliant théorie et pratique, afin de monter rapidement en compétence. Ils sont rédigés par tes coachs. N'hésite pas à les refaire plusieurs fois.  
 - [Projets & exercices](/Projects) : les projets sont conçus pour t'amener à découvrir par toi-même des problématiques spécifiques de code, en auto-apprentissage. Ils servent également, bien sûr, à t'entraîner sur des projets réalistes.
 - [Missions](/Missions) : projets externes, commandités par de vrais clients.
+- Inscriptions à [La Veille](https://github.com/becodeorg/la-veille)
 
 ## Briefings de Projets
 Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te sont proposés.
