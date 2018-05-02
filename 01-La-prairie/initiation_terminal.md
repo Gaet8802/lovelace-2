@@ -13,7 +13,7 @@ Découvre quelle est la ligne de commande qui te permet de :
 - supprimer ce fichier.
 
 Si tu ne sais pas, c'est le moment de demander à ton nouveau BFF : Google !
-En effet, chez BeCode, avant de demander à son voisin, on demande d'abord à Internet !
+En effet, chez BeCode, avant de demander à son voisin, on demande d'abord à Internet.
 
 ## Exercices  
 
