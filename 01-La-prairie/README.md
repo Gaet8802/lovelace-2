@@ -1,9 +1,8 @@
 # La Prairie
 
-## Apprendre à utiliser Google
+## Apprends à faire de Google ton ami
 
-Tu penses sans doute comment faire une rechercher Google de qualité ? [Consulte ce mode d'emploi](UtiliserGoogle.md), tu vas surement apprendre pleins de choses.
-(L'humilité, première qualité d'un bon webdev)
+Il existe pas mal d'astuces permettant d'améliorer les résultats que Google retourne. [Consulte ce mode d'emploi](UtiliserGoogle.md), tu vas surement apprendre pleins de choses. Si tu en connais d'autres, partage...
 
 ## Prise en main du terminal
 
@@ -11,17 +10,16 @@ Tu penses sans doute comment faire une rechercher Google de qualité ? [Consulte
 
 ## Installation de Git sur Linux
 
-- [Exercice : Installation Git](git/exercice-git-installation.md)
 
 ## Git
-
-- [Exercice : Configuration Git](git/exercice-git-configuration.md)
+- [Installer Git](git/git-installation.md)
+- [Configurer Git](git/git-configuration.md)
+- [Apprendre Git](git/git-training.md)
 - [Exercice : Cadavre exquis](git/exercice-git-cadavre-exquis.md)
-- [Exercice : Git training](git/exercice-git-training.md)
 
 ## Markdown, HTML et choses
 
 - [Liste des exercices](html-css/README.md)
 
-## BONUS : Apprendre déjà comment faire un beau readme.md
-- [Comment faire un readme sur GitHub](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
+## Faire un beau readme.md
+- [Comment rédiger des readme utiles et intéressants sur GitHub](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
