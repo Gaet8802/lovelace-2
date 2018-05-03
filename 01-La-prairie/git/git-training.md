@@ -1,7 +1,7 @@
 ## Maîtriser Git
 
 - Objectif: Améliorer ses compétences en Git
-- Temps : 1 Jour
+- Temps : 1 à 2 Jours
 ## Instructions
 
 ### Matin
