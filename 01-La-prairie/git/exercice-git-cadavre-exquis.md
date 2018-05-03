@@ -1,17 +1,18 @@
 ## Objectifs
 
-- Améliorations des compétences en Markdown
-- Améliorations des compétences en Git
+- Amélioration des compétences en Markdown
+- Amélioration des compétences en Git
 - Apprentissage d'un workflow avec des contributeurs sur GitHub
 
 ## Instructions
 
-Temps : 1 Jour
+Durée : 1 Jour
 
-Réaliser un [Cadavre exquis](https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu)) avec GitHub
+A plusieurs, jouer à réaliser un [Cadavre exquis](https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu)) en utilisant Git pour échanger vos contributions. 
+**Principe** : arriver à travailler sur les mêmes fichiers en même temps, en gérant les conflits (ou en les évitant).  
 
 ### Etape 1 : Initialisation
-1. Créer un dépôt sur GitHub nommé "Exercice-Cadavre-Exquis-MonPrenom"
+1. Créer un dépôt sur GitHub nommé `Exercice-Cadavre-Exquis-MonPrenom`
 1. Créer un fichier *README.md*
 1. En markdown, donner un titre à votre histoire
 1. `clone` de votre dépôt sur votre ordinateur
@@ -53,6 +54,8 @@ Réaliser un [Cadavre exquis](https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu)
 1. Aller sur la branche __"developpement"__
 1. Mettre à jour __"developpement"__ en faisant un merge avec la branche __"corrections"__
 
+### Etape 5 : Fixer les acquis
+Rédigez en MarkDown un memo personnel sur le fonctionnement de Git, le `workflow`, les commandes utiles. Gardez-le disponible à tout moment. Complétez-le durant la formation, au fur et à mesure que vous comprenez mieux et que vous rencontrez de nouvelles situations.
 
 ## Ressources
 
