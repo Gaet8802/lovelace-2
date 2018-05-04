@@ -21,12 +21,14 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 
 ## Exercices & jeux logiques
 
+Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler ton cerveau et le préparer à la programmation logique (javascript, php, python, ror...).
+
 - [Silent Teacher](http://silentteacher.toxicode.fr/) : le prof le plus cooooool du monde.
 - [CodeMonkey](https://www.playcodemonkey.com/challenges/0) : tellement mieux que Donkey Kong...
 - Kano te permet de programmer sans coder via une interface _drag and drop_. Faire les [18 premiers niveaux de son tutoriel](https://world.kano.me/coding-challenges/training) t'aidera à comprendre les différentes structures logiques de manière ludique. 
 - [ComputeIt](http://compute-it.toxicode.fr/)
-- [Blocky](https://developers.google.com/blockly/), par Google
-
+- [Scratch](https://scratch.mit.edu/) par le MIT. Un must.
+- Blocky](https://developers.google.com/blockly/), par Google. Même principe que [Scratch](https://scratch.mit.edu/) ou Kano, mais qui génère du vrai code.
 
 ## Markdown, HTML et choses
 
