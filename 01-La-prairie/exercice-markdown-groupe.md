@@ -1,4 +1,4 @@
-# Briefing de l'exercice MarkDown
+# Exercice MarkDown : Intelligence Collective
 
 ### objectif
 - apprendre le [MarkDown](https://guides.github.com/features/mastering-markdown/) et comprendre à quoi il sert

@@ -15,7 +15,9 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 - [Installer Git](git/git-installation.md)
 - [Configurer Git](git/git-configuration.md)
 - [Apprendre Git](git/git-training.md)
-- [Exercice : Cadavre exquis](git/exercice-git-cadavre-exquis.md)
+- [Exercice Git Solo : se faire une page de présentation pro](exercice-markdown-individuel.md)
+- [Exercice Git Collectif en mode yolo : Cadavre exquis](git/exercice-git-cadavre-exquis.md)
+- [Exercice Git Collectif en mode sérieux : Intelligence collective](exercice-markdown-groupe.md)
 
 ## Markdown, HTML et choses
 
