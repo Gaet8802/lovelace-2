@@ -25,6 +25,7 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 - [CodeMonkey](https://www.playcodemonkey.com/challenges/0) : tellement mieux que Donkey Kong...
 - Kano te permet de programmer sans coder via une interface _drag and drop_. Faire les [18 premiers niveaux de son tutoriel](https://world.kano.me/coding-challenges/training) t'aidera à comprendre les différentes structures logiques de manière ludique. 
 - [ComputeIt](http://compute-it.toxicode.fr/)
+- [Blocky](https://developers.google.com/blockly/), par Google
 
 
 ## Markdown, HTML et choses
