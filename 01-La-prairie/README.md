@@ -19,6 +19,14 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 - [Exercice Git Collectif en mode yolo : Cadavre exquis](git/exercice-git-cadavre-exquis.md)
 - [Exercice Git Collectif en mode sérieux : Intelligence collective](exercice-markdown-groupe.md)
 
+## Exercices & jeux logiques
+
+- [Silent Teacher](http://silentteacher.toxicode.fr/) : le prof le plus cooooool du monde.
+- [CodeMonkey](https://www.playcodemonkey.com/challenges/0) : tellement mieux que Donkey Kong...
+- Kano te permet de programmer sans coder via une interface _drag and drop_. Faire les [18 premiers niveaux de son tutoriel](https://world.kano.me/coding-challenges/training) t'aidera à comprendre les différentes structures logiques de manière ludique. 
+- [ComputeIt](http://compute-it.toxicode.fr/)
+
+
 ## Markdown, HTML et choses
 
 - [Liste des exercices](html-css/README.md)
