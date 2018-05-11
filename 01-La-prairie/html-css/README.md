@@ -13,6 +13,7 @@ Créer le dossier "Learning environment" et pour chaque exercice, créer un doss
 - [3 - HTML basic](3-exercice-html-basic.md)
 - [4 - page 404](4-exercice-404-html.md)
 - [5 - créer un CV](5-exercice-creer-un-cv.md)
+- [Sprint: Amélioration Progressive](./progressive-enhancement/readme.md)
 - [6 - Vcard en HTML](6-exercice-vcard-html.md)
 - [7 - Star Wars](7-exercice-star-wars.md)
 - [8 - Présentation](8-exercice-summary.md)
