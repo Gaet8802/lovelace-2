@@ -6,12 +6,12 @@
 
 ## 1. Sémantique HTML
 
-- Ca veut dire quoi "**sémantique**" ?
-Pour bien composer un document html, il faut raisonner non pas en termes d'apparence graphique mais en termes de définition de chacun des objets le composant, c.à.d. raisonner en terme de structure du document.
-Utiliser une balise "titre" pour un titre, une balise "définition" pour une définition, etc.  
+- Ca veut dire quoi "**sémantique**" ?  
+Pour bien composer un document html, il faut raisonner non pas en termes d'apparence graphique mais en termes de définition de chacun des objets le composant, c.à.d. raisonner en terme de **structure du document** :sparkling_heart:.  
+
 Concrètement, faire du html sémantique consiste à se poser la question: "*Ce bout de texte, c'est quoi: un titre? Un paragraphe? Une légende? Et ce bloc, est-ce un chapitre ? Une note de l'auteur ?*" et en fonction de la réponse, choisir la balise correspondante ou s'en rapprochant le plus.
 
-### Pourquoi la sémantique est importante pour le web developer 
+### Pourquoi la sémantique est importante pour ta carrière 
 
 Pour deux raisons :  la **SEO** (position de ton site dans Google) et **l'Accessibilité** (liseuses d'écran).  
 
