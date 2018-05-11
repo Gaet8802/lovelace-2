@@ -16,5 +16,5 @@ Sauf lorsqu'il est indiqué qu'il faut une GitHub Page (dans ce cas, fais un rep
 - [5 - créer un CV](5-exercice-creer-un-cv.md) : 1 jour
 - [Sprint: Amélioration Progressive](./progressive-enhancement/readme.md) : 4 jours
 - [6 - Vcard en HTML](6-exercice-vcard-html.md) : 1 jour
-- [7 - Star Wars](7-exercice-star-wars.md) : 1 jour, par groupe de deux.
-- [8 - Tim Berner-Lee](8-exercice-summary.md) : 2 jours max.
+- [7 - Star Wars](7-exercice-star-wars.md) : 1 jour, par groupe de deux
+- [8 - Tim Berner-Lee](8-exercice-summary.md) : 2 jours maximum
