@@ -1,4 +1,7 @@
-![Generiue de star wars](images/star-wars.jpg)
+![Générique de star wars](images/star-wars.jpg)
+
+- Temps imparti : 1 jour
+- En groupe de 2
 
 ## Objectifs
 
@@ -8,11 +11,11 @@
 
 ## Instructions 
 
-En pair-coding (groupe de deux), réaliser l'introduction de Star Wars en HTML et CSS
-Voici une [vidéo d'exemple](https://www.youtube.com/watch?v=C587lNBQXAw)
+En pair-coding (groupe de deux), réaliser l'introduction de Star Wars en HTML et CSS.  
+Voici une [vidéo d'exemple](https://www.youtube.com/watch?v=C587lNBQXAw). 
 Dans un premier temps on va juste faire défiler le texte.
 
-- Faire un nouveau projet sur GitHub nomé **"Star Wars Crawl"**
+- Faire un nouveau projet sur GitHub nommé **"Star Wars Crawl"**
 - Créer un fichier `index.html`
 - Créer un fichier `style.css`
 - Utiliser un '[lorem ipsum](http://fr.lipsum.com/)' pour avoir du faux texte *([astuce](http://www.macdrifter.com/2012/09/lorem-ipsum-shortcut-in-sublime-text.html))*
