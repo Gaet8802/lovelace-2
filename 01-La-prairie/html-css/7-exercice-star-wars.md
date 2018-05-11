@@ -1,7 +1,10 @@
+# Ta ta ta tata, ta ta ta tata, ta ta ta taToh, Ta ta ta taaaaa !
+
 ![Générique de star wars](images/star-wars.jpg)
 
+## L'exercice 
 - Temps imparti : 1 jour
-- En groupe de 2
+- Par groupe de deux
 
 ## Objectifs
 
