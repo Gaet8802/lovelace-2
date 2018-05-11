@@ -65,12 +65,41 @@ De la sorte, en augmentant la sémantique des balises par des attributs, on a ai
 ![Exemple](https://cdn.searchenginejournal.com/wp-content/uploads/2008/09/title-usability.jpg)
 	
 ## 2. Le CSS (Le look)
- 
+
+Le CSS est la techno qui te permet de contrôler l'aspect visuel de ton contenu.  Par exemple, tu peux contrôler l'aspect du texte via ces propriétés : `font-style`, `font-size`, `color`, `line-height`.
+
+Autrement dit, si le html te permet de structurer le contenu, le CSS te permet de le **maquiller**, le rendre plus visuellement attractif.
+
+### Syntaxe
+Chaque ligne doit se terminer par un `;`
+
+```css
+selecteur {
+	propriete : valeur ;
+	propriete : valeur ;
+	/* Ceci est un commentaire */
+	propriete : valeur ;
+	...
+}  
+```
+
+Tu peux déclarer autant de propriétés que tu souhaites. Tu peux même déclarer deux fois la même propriété. Dans ce cas, ce sera la dernière qui sera prise en compte.
+
+**Exemple** : à ton avis, que fait ce bout de code ? 
+
+```css
+p{
+	font-size: 12px;
+	font-family: Arial, sans-serif;
+	color: purple;
+}
+```
+
+
 ### Concept 1: sélecteurs CSS
 
 Les sélecteurs CSS te permettent de sélectionner dans ton html le contenu à styliser via la balise le contenant.
 
-Par exemple, tu peux contrôler l'aspect du texte: `font-style` (serif / sans-serif), font-size, color, line-height  
 
 #### Exercices 
 
