@@ -83,7 +83,7 @@ selecteur {
 }  
 ```
 
-Tu peux déclarer autant de propriétés que tu souhaites. Tu peux même déclarer deux fois la même propriété. Dans ce cas, ce sera la dernière qui sera prise en compte.
+Tu peux déclarer autant de propriétés que tu le souhaites. Tu peux même déclarer deux fois la même propriété. Dans ce cas, ce sera la dernière qui sera prise en compte (d'où le terme "cascading").
 
 **Exemple** : à ton avis, que fait ce bout de code ? 
 
@@ -94,6 +94,11 @@ p{
 	color: purple;
 }
 ```
+
+Pour que le navigateur le prenne en compte, ton CSS doit se trouver soit :
+
+- dans ton fichier html, dans une balise `<style>`
+- dans un fichier css externe, lié à ton html via la balise `<link>`
 
 
 ### Concept 1: sélecteurs CSS
