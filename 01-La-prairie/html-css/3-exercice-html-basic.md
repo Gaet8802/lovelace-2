@@ -19,6 +19,7 @@ Tu vas réaliser un minisite d'une page (= un *one-pager*) présentant une assoc
 - Cite la source de ta citation.
 - Fais en sorte que si l'on clique dessus, on y arrive dans une nouvelle fenêtre.
 - Fais un sous-titre "D'autres associations" suivie d'une liste de liens vers des associations similaires.
+- Fais en sorte que le contenu soit valide en utilisant [l'outil de validation du W3C](https://validator.w3.org/#validate_by_input)
 - publie cela comme une GitHub Page
 
 ## Bonus
