@@ -1,29 +1,22 @@
-# Introduction
+# Tim Berner-Lee
 
-## Compétences
-
-- Compréhension
-- Autonomie
-- Organisation
-- Execution
-- Présentation
+Temps nécessaire : 16 heures maximum
 
 ## Objectifs
 
-- Réaliser une page sur Tim Berner Lee
-- Comprendre les principes du HTML et du CSS
-- Présenter votre page et votre code
+- Réaliser une page sur Tim Berner-Lee
+- Faire du HTML et du CSS
 
 ## Briefing
 
 ### Étape 1 : Git
 
-- Crée un dépôt sur GitHub nomé "starting-web-developpment"
-- Cloner ce dépot sur votre ordinateur
+- Crée un dépôt sur GitHub nomé "tim-berner-lee"
+- Clone ce dépot sur ton ordinateur
 
 ### Étape 2 : HTML
 
-Faire les actions suivantes dans le dossier **"starting-web-developpment"**
+Faire les actions suivantes dans le dossier **"tim-berner-lee"**
 
 - Crée un fichier **index.html**
 - Crée un fichier **style.css**
@@ -35,7 +28,7 @@ Faire les actions suivantes dans le dossier **"starting-web-developpment"**
 
 - Dans **index.html** écrire du code HTML dont le résultat doit correspondre exactement à cette image ![Goal CSS](images/goal-html.png)
   - Lien vers la page Wikipedia de Tim Berners-Lee : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
-  - Pour avoir les icones utiliser ceci : 
+  - Pour avoir les icônes utiliser ceci : 
   ```html
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   ``` 
@@ -63,14 +56,11 @@ Faire les actions suivantes dans le dossier **"starting-web-developpment"**
 - Faire un `commit` 
 - Faire un `push`
 - Aller sur votre profile GitHub pour vérifier les changements
+- Publier la page comme une GitHub Page
 
-### Étape 5 : Présentation
-
-- Présenter son code
-- Expliquer les difficultés rencontrées
-
-
-
+### Étape 5 : readme file
+- Explique pourquoi, comment, qui
+- Explique les difficultés que tu as rencontrées dans ce projet et comment tu les as résolues.
 
 
 
