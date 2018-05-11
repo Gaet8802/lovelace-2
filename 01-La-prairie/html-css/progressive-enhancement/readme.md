@@ -80,11 +80,13 @@ Par exemple, tu peux contrôler l'aspect du texte: `font-style` (serif / sans-se
 
 ### Concept 2: le bloc
  
-Une balise est rendue visuellement sous forme de "bloc" (en anglais on parle du *[box model](https://www.w3schools.com/css/css_boxmodel.asp)*). 
+Toute balise est rendue visuellement sous forme de "bloc" (en anglais on parle du [box model](https://www.w3schools.com/css/css_boxmodel.asp)).  
+
 ![Le bloc](css-block.png)  
+
 Tu peux contrôler les dimensions et les espacements de ce bloc :   
 
-- `width`/ `height` : dimensions  
+- `width`/ `height` : dimensions de largeur et hauteur 
 - `border`: contrôle la bordure. Par exemple: `border:1px solid #FF0000;` crée un bord fait d'un trait continu (`solid`) rouge `#FF0000` et de 1px d'épaisseur
 - `padding` : l'espace entre le contenu du bloc et son contour (le `border`). Le padding "gonfle" le bloc.  
 - `margin` : l'espace autour du bloc, à l'extérieur de lui. Le margin distancie le bloc de son entourage.  
