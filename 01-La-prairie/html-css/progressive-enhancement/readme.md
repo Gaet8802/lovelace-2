@@ -86,7 +86,7 @@ Voici résumée la syntaxe des balises, attributs et valeurs :
 
 **Exercices :**  
 
-Reprends ton fichier du paysan chinoix :
+Reprends ton fichier du paysan chinois :
 
 - Rajoute l'attribut `Alt` aux images. A quoi sert cet attribut?  
 - Ajoute une classe "*bien*" ou "*mal*" aux balises entourant les mots "Bien" et "Mal".
@@ -142,7 +142,7 @@ Les sélecteurs CSS te permettent de sélectionner dans ton html le contenu à s
 
 **Exercices :**  
 
-Reprends ton fichier du paysan chinoix :
+Reprends ton fichier du paysan chinois :
 
 - stylise les paragraphes : utilise une police à empatement, augmente un peu l'interlignage, utilise une taille de base bien lisible. Donne au texte de couleur foncée, mais pas noire.
 - stylise les liens de manière à les rendre bien lisibles.
@@ -164,7 +164,7 @@ Tu peux contrôler les dimensions et les espacements de ce bloc :
 
 **Exercices :**  
 
-Reprends ton fichier du paysan chinoix :
+Reprends ton fichier du paysan chinois :
 
 - Donne au `body` une largeur maximum de 90% 
 - Ensuite, centre le `body` en jouant avec la propriété `margin`  
@@ -188,7 +188,7 @@ Le plus souvent, on sélectionne les éléments à styliser via l'attribut `clas
 
 **Exercices**   
 
-Reprends ton fichier du paysan chinoix :
+Reprends ton fichier du paysan chinois :
 
 - En utilisant uniquement la balise comme sélecteur, mets toutes les citations en italiques.  
 	- Identifie les citations des villageois et celles du fermier en assignant à chacune une classe correspondante.  
@@ -198,7 +198,7 @@ Reprends ton fichier du paysan chinoix :
 
 **Exercice**
 
-Reprends ton fichier du paysan chinoix :
+Reprends ton fichier du paysan chinois :
 
 - Sélectionne un élément du `header` et donne lui un fond jaune.
 
@@ -210,7 +210,7 @@ Reprends ton fichier du paysan chinoix :
 
 **Exercices**  
 
-Reprends ton fichier du paysan chinoix :
+Reprends ton fichier du paysan chinois :
 
 -   Mets en italique le texte des citations
 -   Mets en lettres majuscules toutes les instances des mots "bien" et "mal".
@@ -237,7 +237,7 @@ Chaque bloc html hérite (= "reçoit par défaut") d'une propriété "display" q
 
 **Exercice :**  
 
-Reprends ton fichier du paysan chinoix :
+Reprends ton fichier du paysan chinois :
 
 - Fais en sorte que le texte courre autour des images, en utilisant, sur les images, la propriété `float` (ajuste avec du `margin` pour distancier le texte de l'image).   
 
