@@ -86,6 +86,8 @@ Voici résumée la syntaxe des balises, attributs et valeurs :
 
 **Exercices :**  
 
+Reprends ton fichier du paysan chinoix :
+
 - Rajoute l'attribut `Alt` aux images. A quoi sert cet attribut?  
 - Ajoute une classe "*bien*" ou "*mal*" aux balises entourant les mots "Bien" et "Mal".
 - Trouve l'attribut des liens permettant d'indiquer la page vers laquelle doit mener le lien, et ajoute-le.  
@@ -138,7 +140,9 @@ Pour que le navigateur le prenne en compte, ton CSS doit se trouver soit :
 Les sélecteurs CSS te permettent de sélectionner dans ton html le contenu à styliser via la balise le contenant.
 
 
-#### Exercices 
+**Exercices :**  
+
+Reprends ton fichier du paysan chinoix :
 
 - stylise les paragraphes : utilise une police à empatement, augmente un peu l'interlignage, utilise une taille de base bien lisible. Donne au texte de couleur foncée, mais pas noire.
 - stylise les liens de manière à les rendre bien lisibles.
@@ -157,7 +161,8 @@ Tu peux contrôler les dimensions et les espacements de ce bloc :
 - `padding` : l'espace entre le contenu du bloc et son contour (le `border`). Le padding "gonfle" le bloc.  
 - `margin` : l'espace autour du bloc, à l'extérieur de lui. Le margin distancie le bloc de son entourage.  
 
-#### Exercices
+
+**Exercices :**  
 
 Reprends ton fichier du paysan chinoix :
 
