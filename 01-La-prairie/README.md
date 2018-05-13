@@ -30,6 +30,9 @@ Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler to
 - [Scratch](https://scratch.mit.edu/) par le MIT. Un must.
 - Blocky](https://developers.google.com/blockly/), par Google. Même principe que [Scratch](https://scratch.mit.edu/) ou Kano, mais qui génère du vrai code.
 
+## Coding challenges
+- https://coderbyte.com/challenges : résous des petits problèmes en code.
+
 ## Markdown, HTML et choses
 
 - [Liste des exercices](html-css/README.md)
