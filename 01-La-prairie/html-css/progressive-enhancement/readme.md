@@ -1,7 +1,7 @@
 # L'Amélioration progressive
 
 - Repository à créer : `progressive-enhancement` 
-- Slides : [La typographie web](la-typographie-web.pdf)
+- Slides : [Progressive Enhancement](https://app.ludus.one/8c042d9a-e404-4df5-b14e-48e3eb6e6014)
 - Temps nécessaire : 3-4 jours.
 
 ## 1. HTML : la sémantique
