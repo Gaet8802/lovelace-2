@@ -28,7 +28,7 @@ Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler to
 - Kano te permet de programmer sans coder via une interface _drag and drop_. Faire les [18 premiers niveaux de son tutoriel](https://world.kano.me/coding-challenges/training) t'aidera à comprendre les différentes structures logiques de manière ludique. 
 - [ComputeIt](http://compute-it.toxicode.fr/)
 - [Scratch](https://scratch.mit.edu/) par le MIT. Un must.
-- Blocky](https://developers.google.com/blockly/), par Google. Même principe que [Scratch](https://scratch.mit.edu/) ou Kano, mais qui génère du vrai code.
+- [Blocky](https://developers.google.com/blockly/), par Google. Même principe que [Scratch](https://scratch.mit.edu/) ou Kano, mais qui génère du vrai code.
 
 ## Coding challenges
 - https://coderbyte.com/challenges : résous des petits problèmes en code.
