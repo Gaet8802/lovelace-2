@@ -36,6 +36,7 @@ Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler to
 ## Markdown, HTML et choses
 
 - [Liste des exercices](html-css/README.md)
+- [Animation : les technologies du web (frontend, backend, fullstack, chose)](https://app.ludus.one/74e7bebb-4b97-4ed6-8fab-08d25778f54d)
 
 ## Faire un beau readme.md
 - [Comment rédiger des readme utiles et intéressants sur GitHub](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
