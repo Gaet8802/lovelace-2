@@ -13,9 +13,18 @@ La problématique est réellement advenue avec les premiers iphone en 2007 et pu
 ![iWatch](watch.jpg)
 
 ## La solution : CSS Media Queries
-[Apprends ici](https://www.w3schools.com/css/css_rwd_mediaqueries.asp).
+Via les Media Queries, on va pouvoir dire au navigateur : si ta taille est X, utilise ces propriétés CSS ci, sinon celles là. Le résultat attendu en terme d' UX est de ce style :   
 
-## Quelques exercices pour les prendre en main
+![](responsive-screens.gif)
+
+Le RWD a entrainé une nouvelle manière d'envisager un site, différenciant de plus en plus entre la substance (le contenu) et l'apparence (le contenant : le device).
+
+![](water.jpg)
+
+
+## A ton tour
+1. [Apprends ici à les utiliser](https://www.w3schools.com/css/css_rwd_mediaqueries.asp).
+2. Exécute ces quelques exercices pour les prendre en main
 
 ### 1. Changer la couleur
 Crée un fichier html et un fichier CSS.
@@ -38,8 +47,12 @@ Fais en sorte que :
 - en grand, les 3 div soient l'une à côté de l'autre.
 
 ### 5. Challenge
-Adapte [ce layout](exo-respons.zip) pour les écrans de smartphone et de tablette. 
+Adapte [ce layout (zip)](exo-respons.zip) pour les écrans de smartphone et de tablette. 
 
 - Ne modifier que le fichier CSS 
 - N'utiliser que le fichier CSS existant.
+
+## Fini? Bravo, ton contenu n'a qu'à bien se tenir !
+
+![](barbapapa.gif)
 
