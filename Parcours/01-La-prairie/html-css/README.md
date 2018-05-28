@@ -29,4 +29,4 @@ Sauf lorsqu'il est indiqué qu'il faut une GitHub Page (dans ce cas, fais un rep
 
 ## Pour les fanatiques du frontend
 
-- [22 composants d'interfaces](../../../projects/composants-de-design/)
+- [22 composants d'interfaces](../../../Projects/composants-de-design/)
