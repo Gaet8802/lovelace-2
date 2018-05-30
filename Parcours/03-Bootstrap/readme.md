@@ -22,7 +22,10 @@ Repository : `bootstrap-training`
 ### Projet
 - [Projet](projet.md)
 
+### Aller plus loin
+Une fois que vous avez utilisé un framework CSS, vous avez compris leur utilité et le gain de temps que cela représente pour vous. Le stade suivant est d'en essayer d'autres que Bootstrap. A force, on se rend compte que certains sont bien pour ceci, d'autres pour cela... Comparez [purecss.io](https://purecss.io/), [wirefy](http://getwirefy.com/), [zurb foundation](https://foundation.zurb.com/), [uikit](https://getuikit.com/), [semantic ui](https://semantic-ui.com/)....   Ou faites le vôtre !
+
 ### Ressources
 
-Pour le moment :
-- [documentation officielle](http://getbootstrap.com)
+- [documentation officielle de Bootstrap](http://getbootstrap.com)
+- Slant: [best css frameworks comparison](https://www.slant.co/topics/150/~best-css-framework)
