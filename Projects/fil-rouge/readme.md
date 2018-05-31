@@ -25,9 +25,6 @@ Les projets sont découpés en phases, dans un processus itératif (idéalement,
 
 **Temps nécessaire estimé** pour la durée des projets : 3 - 4 mois.
 
-## Document de suivi
-Ce [tableur](https://docs.google.com/spreadsheets/d/e/2PACX-1vTq7Kn5_MqXtTe2ymg3QSPdJ5kyh02BrMXqQ1AkOOrgcfSH1Ok-pJcAaxAqp3dJ-kJQUKf58gYgFEp-/pubhtml) permet de suivre les groupes.
-
 ## Les phases
 
 [![Fil Rouge : timeline](./filrouge-timeline.png)](https://docs.google.com/drawings/d/1kKAMz1jTaK0-8Glg136j3T1C3kCKaq-gFEju1FxsVCs/edit)
