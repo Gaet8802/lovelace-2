@@ -3,7 +3,7 @@
 - repository : `filrouge-0-guerrilla`
 - team : `false`
 - Durée : `21600s`
-
+- remise: [formulaire](https://goo.gl/forms/ov5m6hVD4ZUxY2Yc2)
 
 ## L'histoire
 
@@ -37,7 +37,7 @@ Durant cette phase, le respect de la deadline est **primordial et non négociabl
 - Modifie-la en utilisant le contenu rassemblé
 - Une fois publié, utilise le [Lighthouse Test](https://developers.google.com/web/tools/lighthouse/) et améliore ton code pour améliorer ses scores dans tous les domaines.
 - si possible, trouve un nom de domaine gratuit
-- Terminé ? Publie le résultat sur ce formulaire avant la fin de la deadline.
+- Terminé ? Publie le résultat sur ce [formulaire](https://goo.gl/forms/ov5m6hVD4ZUxY2Yc2) avant la fin de la deadline.
 
 ## Objectif pédagogique
 - Voir comment réaliser en urgence un site web d' une page (= un "one-pager"), sur base de templates existantes. Guerilla style.
