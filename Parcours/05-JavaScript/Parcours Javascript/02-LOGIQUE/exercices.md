@@ -6,13 +6,13 @@
 * Crée une autre variable qui servira à stocker un message
 * Crée une condition pour savoir quelle sera la valeur du message si elle est "fr","es","en".
 
-Affichez "Bonjour tout le monde", "Hello world" et "Hola, Mundo" selon la bonne langue
+afficher "Bonjour tout le monde", "Hello world" et "Hola, Mundo" selon la bonne langue
 
 ### Exercice : Affichage des scores
 
 * Crée une variable qui contient un score 
 * Crée une variable qui contiendra le resultat
-* Faire des conditions pour pour établir les rangs selon le score
+* Faire des conditions pour pour etablir les rang selon le score
 
 - Vous avez le rang `A` si vous avez un score égal ou supérieur a `90`
 - Vous avez le rang `B` si vous avez un score inférieur a `90`
@@ -21,9 +21,9 @@ Affichez "Bonjour tout le monde", "Hello world" et "Hola, Mundo" selon la bonne 
 ### Exercice : Mettre au pluriel
 
 * Crée une variable contenant un mot au singulier
-* Crée une variable qui contient le nombre dont tu en dispose
-* Crée une variable qui contiendra le résultat
-* Faire une condition pour savoir s'il faut rajouter un "s" ou pas
+* crée une variable qui contient le nombre dont tu en dispose
+* crée une variable qui contiendra le résultat
+* Faire une condition pour savoir si il faut rajouter un "s" ou pas
 
 Le résultat doit être par exemple : 
 `"Je possède 4 pommes"`
