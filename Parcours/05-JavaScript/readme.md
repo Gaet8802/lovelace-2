@@ -3,6 +3,7 @@
 ### Programme
 
 - Cours : [01 - Introduction à Javascript](https://docs.google.com/presentation/d/156vrNVBSOSy_YdHRKbaoqXfr3GALC2dtZFbaU-pR5eI/edit?usp=sharing)
+- Différents [exercices interactifs JavaScript](http://odyssey.sdlm.be/javascript/01/qcm.htm) en complément du cours "[Dynamisez vos sites web avec JavaScript (OpenClassrooms)](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript)".
 - Entrainement : [Première série](js-exercises-base1)
 - Entrainement : [Deuxième série](js-exercices-base2.md)
 - Cours : [02 - Le DOM](https://docs.google.com/presentation/d/1zcucIJ-y8xyT5rjCE5hpPjBWq-RjIBusuXvIygfnqPQ/edit?usp=sharing)
