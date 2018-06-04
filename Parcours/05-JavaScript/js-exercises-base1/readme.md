@@ -25,7 +25,7 @@ Afficher une boîte de dialogue permettant de saisir son prénom. Afficher dans 
 
 ## Exercice 4 :
 
-Refaire **l’exercice 2** en demandant le nom, le prénom et la ville à l’utilisateur.
+Refaire **l’exercice 2** en **demandant à l'utilisateur** le nom, le prénom et la ville.
 
 ## Exercice 5 :
 
