@@ -16,7 +16,8 @@ Définir une variable et l'afficher dans une boîte de dialogue.
 
 ## Exercice 2 :
 
-Définir trois variables : *nom*, *prenom* et *ville*. Les afficher comme sur l'image correspondant à l'exercice.
+Définir trois variables : *nom*, *prenom* et *ville*. Les afficher comme sur l'image ci-dessous.  
+![](Exercice_2.png)
 
 ## Exercice 3 :
 
