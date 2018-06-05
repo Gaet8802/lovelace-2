@@ -10,7 +10,6 @@ Au terme de ce parcours, l'apprenant•e sera capable de :
 - Créer des requêtes en Ajax
 - Debugger en utilisant la console du navigateur
 - utiliser des librairies externes (ex: jQuery ou Zepto)
-- Faire un peu de backend via nodejs
 
 Au terme de ce parcours, l'apprenant•e sera prêt•e à prendre en main des frameworks JS (React, Angular, Vue.js...)
 
