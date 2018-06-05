@@ -5,7 +5,7 @@
 Au terme de ce parcours, l'apprenant•e sera capable de :
 
 - Comprendre la "[séparation des préoccupations](https://fr.wikipedia.org/wiki/S%C3%A9paration_des_pr%C3%A9occupations)", autrement dit, le rôle et la complémentarité du javascript par rapport au html et au css;
-- Utiliser des opérateurs, des variables, des tableaux, des structures de contrôle (conditions), des fonctions et des objets en JavaScript;
+- Utiliser des opérateurs, des variables, des tableaux, des structures de contrôle (conditions, switch & boucles), des fonctions et des objets en JavaScript;
 - Modifier le contenu html en utilisant le DOM (Document Object Model)
 - Créer des requêtes en Ajax
 - Debugger en utilisant la console du navigateur
