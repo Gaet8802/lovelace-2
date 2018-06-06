@@ -31,7 +31,7 @@ Au terme de ce parcours, l'apprenant•e sera prêt•e à prendre en main des f
 ## En selle !
 
 - [Jeu du pendu](pendu.md)
-- [Juste prix](pendu.md)
+- [Juste prix](justeprix.md)
 - [Les objets en js](objetsenjs.md)
 - [Javascript Recall](recall)
 - [JS Cookie Clicker](cookie-clicker)
