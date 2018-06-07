@@ -40,7 +40,7 @@ Durant cette phase, le respect de la deadline est **primordial et non négociabl
 - Une fois ta page réalisée et en ligne, utilise le [Lighthouse Test](https://developers.google.com/web/tools/lighthouse/) et améliore ton code pour améliorer ses scores dans tous les domaines.
 - Essaye d'en faire une Progressive Web App ([guide](https://dev.to/pixeline/the-easy-way-to-turn-a-website-into-a-progressive-web-app-77g))
 - Si possible, trouve un nom de domaine gratuit
-- Terminé ? Publie le résultat sur ce [formulaire](https://goo.gl/forms/ov5m6hVD4ZUxY2Yc2) avant la fin de la deadline.
+- Terminé ? Publie le résultat sur ce [formulaire](https://goo.gl/forms/Z544Q93eqeNdfZHI3) avant la fin de la deadline.
 
 ## Objectifs pédagogiques
 - Introduction au User-Centered Design
