@@ -1,13 +1,10 @@
 # SASS
 
+Durée estimée de ce parcours : 1 journée.
+
 Le SASS (extension de fichier: scss ) est un outil de développement *frontend*, qui génère du css à partir d'un langage fait de CSS "amélioré". En rédigeant tes stylesheets en sass plutôt que directement en CSS, tu bénéficies de trucs sympas pouvant **diminuer ton temps de travail** (ton syndicat sera content), rendre ton **code plus réutilisable** d'un projet à l'autre (ton boss sera content), plus lisible aussi, grâce notamment à une syntaxe améliorée, à l'utilisation de **fonctions** (appelées des "mixin") et de **variables** (appelées des "variables". Ben oui).
 
 ![nice](images/nice.gif)
-
-
-
-Durée estimée de ce parcours : 1 journée.
-
 
 
 ## Initialisation
@@ -35,11 +32,8 @@ Voici quelques applications (gratuites et payantes): http://sass-lang.com/instal
    ![assets-content](images/assets-content.png)
 
 - Note que cette structure de dossier "assets" est conseillée simplement par le fait qu'elle est devenue une forme de convention chez les *frontend developers*. Libre à toi de t'en écarter, si tu aimes réinventer la roue.
-
 - Crée un fichier `assets/scss/style.scss`  et configure ton application sass pour qu'elle génère le fichier  `assets/css/style.css` à chaque fois que le fichier "source" (style.scss) est modifié.
-
 - Assure-toi que ton fichier html est bien lié à ton fichier .css (et non au fichier .scss).
-
 - Expérimente avec ces [exercises in basic SASS features](https://gist.github.com/pixeline/dab8a29566b994453b8c681ed2b7ff2a)
 
 ### Projet 
