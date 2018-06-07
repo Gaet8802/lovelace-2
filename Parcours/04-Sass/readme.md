@@ -58,6 +58,8 @@ Si tout s'est bien passé au terme de ce parcours iniSASStique, tu as dû compre
 
 ![sassy](images/sassy.gif)
 
+## Aller plus loin
+- lire [Combining the Powers of SEM and BIO for Improving CSS](https://css-tricks.com/combining-the-powers-of-sem-and-bio-for-improving-css/) afin d'avoir plein de bons conseils sur la manière de nommer ses classes.
 
 
 
