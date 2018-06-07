@@ -3,6 +3,7 @@
 - repository: `becode-AHOD`  
 - team: `true`  
 - duration: `6 hours`
+- Critères d'évaluation: [consulter les critères d'évaluation](criteria.md)
 
 ## Préparatif
 La veille, chacun(e) lit cet article sur le *[User-Centric Design](https://blog.prototypr.io/introduction-to-user-centered-design-approach-b0770974789e)*. 
