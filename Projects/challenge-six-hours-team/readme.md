@@ -38,10 +38,11 @@ Durant cette phase, le respect de la deadline est **primordial et non négociabl
 - Déploie via une GitHub Pages
 - Analyse le client et identifie un CTA qui ait du sens, ainsi que les arguments à avancer pour convaincre l'utilisateur de cliquer.
 - Conçois et réalise **au moins une animation CSS** pour guider son regard, ou faciliter sa compréhension de l'objet du site
+- Vérifie la sémantique html grâce au [W3C Validator](https://validator.w3.org/)
 - Une fois ta page réalisée et en ligne, utilise le [Lighthouse Test](https://developers.google.com/web/tools/lighthouse/) et améliore ton code pour améliorer ses scores dans tous les domaines.
 - Essaye d'en faire une Progressive Web App ([guide](https://dev.to/pixeline/the-easy-way-to-turn-a-website-into-a-progressive-web-app-77g))
 - Si possible, trouve un nom de domaine gratuit
-- Terminé ? Publie le résultat sur ce [formulaire](https://goo.gl/forms/ov5m6hVD4ZUxY2Yc2) avant la fin de la deadline.
+- Terminé ? Publie le résultat sur ce [formulaire](https://goo.gl/forms/Z544Q93eqeNdfZHI3) avant la fin de la deadline.
 
 ## Objectifs pédagogiques
 - Introduction au User-Centered Design
