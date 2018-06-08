@@ -13,13 +13,13 @@ Au terme de ce parcours, l'apprenant•e sera capable de :
 
 Au terme de ce parcours, l'apprenant•e sera prêt•e à prendre en main des frameworks JS (React, Angular, Vue.js...)
 
-
 ## Programme
 
 - Cours : [01 - Introduction à Javascript](https://docs.google.com/presentation/d/156vrNVBSOSy_YdHRKbaoqXfr3GALC2dtZFbaU-pR5eI/edit?usp=sharing)
 - Si tu as déjà fait du Javascript, évalue ton niveau via ces différents [exercices interactifs JavaScript](http://odyssey.sdlm.be/) en complément du cours "[Dynamisez vos sites web avec JavaScript (OpenClassrooms)](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript)".
 - Entrainement : [Première série](js-exercises-base1)
 - Entrainement : [Deuxième série](js-exercices-base2.md)
+- Lire sur la [technique de l'UML](https://github.com/becodeorg/BeCode/wiki/Trouver-le-chemin-logique-:-notions-d'UML) pour trouver un chemin logique, casser un gros problème en plusieurs petits problèmes et structurer son code avant de coder
 - Cours : [02 - Le DOM](https://docs.google.com/presentation/d/1zcucIJ-y8xyT5rjCE5hpPjBWq-RjIBusuXvIygfnqPQ/edit?usp=sharing)
 - Entrainement : [Troisième série](js-exercises-base3)
 - Entrainement : [Quatrième série](js-exercises-base4)
