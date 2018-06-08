@@ -15,6 +15,14 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 - Si vraiment tu ne peux faire autrement, préviens nous **au moins un jour à l'avance** en envoyant un email à alexandre@becode.org, bertrand@becode.org ET admin@becode.org.
 - Malade ? Montre un certificat médical valide dans les 2 jours et préviens-nous par email aussitôt que possible.
 
+## Planning
+
+- Début: 2 mai 2018
+- Congé 1: du lundi 02/07 au vendredi 06/07
+- Congé 2: du lundi 10/09 au vendredi 14/09
+- 17/09 : début des pâturages et recherche active de stages
+- 10/12: départ en stages
+
 ## Contenus pédagogiques
 
 - [Parcours](/Parcours) : les parcours sont des tutoriels à faire en solitaire, alliant théorie et pratique, afin de monter rapidement en compétence. Ils sont rédigés par tes coachs. N'hésite pas à les refaire plusieurs fois.  
