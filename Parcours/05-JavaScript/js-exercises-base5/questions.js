@@ -4,20 +4,8 @@
  * Il peut y avoir plusieur façon de faire.
  */
 var tailleString = function (texte) {
-
-    return texte.length;
-
 }
 var remplaceECar = function (texte) {
-
-    var pos = texte.indexOf('e');
-
-    if (pos){
-        var array = texte.split('');
-        array[pos]= " ";
-        return array.join('');
-    }
-    return texte;
 }
 var concatString = function (texte1, texte2) {
 
