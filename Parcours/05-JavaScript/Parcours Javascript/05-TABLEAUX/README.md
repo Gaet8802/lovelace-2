@@ -20,8 +20,8 @@ Vous récupérez un élément spécifique d'un tableau en utilisant son ind
 
 ```js
 ShoppingList[0];
-```
 ­> lait
+```
 
 Il est également possible de définir la valeur d’un index en particulier, en utilisant à nouveau la syntaxe de crochet:
 
