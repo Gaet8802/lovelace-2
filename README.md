@@ -17,11 +17,13 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 
 ## Planning
 
-- Début: 2 mai 2018
-- Congé 1: du lundi 02/07 au vendredi 06/07
-- Congé 2: du lundi 10/09 au vendredi 14/09
-- 17/09 : début des pâturages et recherche active de stages
-- 10/12: départ en stages
+- 02/05 : début de la prairie
+- 01/06 : fin de la prairie, début de la montagne
+- 02/07 > 06/07 : Congés 1
+- 10/09 > 14/09 : Congés 2
+- 17/09 : début recherche active de stages
+- 08/10 (environ) : fin du tronc commun, début des des pâturages
+- 10/12 : départ en stages
 
 ## Contenus pédagogiques
 
