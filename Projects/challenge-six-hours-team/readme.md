@@ -49,7 +49,7 @@ Durant cette phase, le respect de la deadline est **primordial et non négociabl
 - Travail de groupe coordonné avec de nouveaux collaborateurs
 - Introduction aux PWA
 - Travailler les animations CSS
-- Voir comment réaliser en urgence un site web d' une page (= un "one-pager"), sur base de templates existantes. Guerilla style.
+- Voir comment réaliser en urgence un site web d' une page (= un "one-pager"), sur base d'un framework CSS. Guerilla style.
 - Utiliser des outils de validation, tels que le Lighthouse Test ou le W3C Validator, pour améliorer ses compétences de frontend
 - Travailler les compétences acquises dans un cas concret
 - Découvrir les vertus du [suffisfaisant](https://fr.wikipedia.org/wiki/Satisficing) comme alternative au perfectionnisme.
