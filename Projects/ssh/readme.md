@@ -21,7 +21,7 @@ Dans le métier de développeur web on est amené à developper des sites en loc
 
 ## Comment ça marche
 
-Pour l’exemple nous allons utiliser une Raspberry. Celle-ci déjà pré-configurée par votre formateur avec un [serveur Apache](https://fr.wikipedia.org/wiki/Apache_HTTP_Server) et connexion SSH activée.
+Pour l’exemple nous allons utiliser un des ordinateurs de BeCode, déjà pré-configurée par votre formateur avec un [serveur Apache](https://fr.wikipedia.org/wiki/Apache_HTTP_Server) et un serveur SSH. (OpenBSD Secure Shell server)
 
 Pour se connecter en SSH à une autre machine on aura besoin de 3 choses :  
 
