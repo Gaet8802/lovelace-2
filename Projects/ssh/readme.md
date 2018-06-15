@@ -72,12 +72,13 @@ Tu veux déployer un fichier html. Voici comment faire :
 	- rentre dans le dossier de ton bureau (`Desktop`en anglais). 
 	- une fois dedans, affiche le contenu. Tu devrais voir le fichier html que tu viens de créer parmi les autres fichier/dossier sur votre bureau.
 1. Maintenant que nous sommes dans le terminal et situé dans le dossier bureau on va pouvoir **transférer notre fichier html sur le serveur**. Souviens-toi, tu as créé un dossier portant ton nom. On va transférer dans ce dossier, via la commande `scp` (Secure CoPy).  
-2. Tape la commande: `scp ./index.html junior@adresseIP:/var/www/html/ton-prenom-nom/`
+2. Tape la commande: `scp -P 1992 ./index.html junior@adresseIP:/var/www/html/ton-prenom-nom/`
 
 **Syntaxe de la commande scp**  
 
-```bash
+```
 scp : secure copy 
+-P <portnumber> : le numéro du port
 ./index.html : c’est la "source", le chemin menant au fichier que je souhaite tranférer
 junior : mon login de connexion au serveur 
 10.20.0.238 : ip de mon serveur distant
