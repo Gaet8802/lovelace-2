@@ -92,7 +92,7 @@ Bravo vous avez utilisez le SHH pour copier un fichier !
 
 ## Aller plus loin
 
-Maintenant, tu dois te dire : ce n'est pas très pratique. Et non, c'est vrai... En réalité, ce que l'on fait, c'est des choses comme ceci: aller dans le dossier de destination (le dossier publié), utiliser git pour `pull` la branche `master`! 
+Maintenant, tu dois te dire : ce n'est pas très pratique. Et non, c'est vrai... En réalité, ce que l'on fait, c'est des choses comme ceci: aller dans le dossier de destination (le dossier publié), utiliser git pour cloner le repos, puis `pull` la branche `master` pour déployer chaque update! 
 
 Avec ton binôme, peux-tu imaginer la procédure ? Et si tu essayais, dans ton dossier ?
 
