@@ -31,7 +31,7 @@ Pour se connecter en SSH à une autre machine on aura besoin de 3 choses :
 - Le nom de la machine en réseau ou son ip
 
 La syntaxe donne ceci : 
-`ssh user@machineIP` ou `ssh user@machineName`
+`ssh -p 1992 user@machineIP` ou `ssh -p 1992 user@machineName`
 
 **Exercice**  
 Un serveur de test est disponible sur le wifi `BC_HUB` sous le nom : `becode-server` à l'adresse `10.20.0.238` (elle a peut-être changé, demande à ton coach. Rappelle-lui que la commande est `hostname -I`sur Linux, pour obtenir son adresse iP locale ;-) ). Le port est `1992`.
