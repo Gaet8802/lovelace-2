@@ -11,7 +11,7 @@ Dans le fichier HTML fourni, changer l'image au survol de celle-ci par la deuxi�
 Dans le fichier HTML fourni, afficher une boite de dialogue avec le message : *"Merci de votre participation"* quand le champ de saisie perd le focus.
 
 ## Exercice 3
-Dans le fichier HTML fourni, afficher une boite de dialogue avec la valeur du champ dès que l'on appuie sur le clavier.
+Dans le fichier HTML fourni, afficher, dès que l'on entre une valeur dans l'input, une boite de dialogue avec la valeur de cet input.
 
 ## Exercice 4
 Dans le fichier HTML fourni, faire que le bouton RAZ efface les données des champs du formulaire.
