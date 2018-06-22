@@ -28,4 +28,5 @@ The web service sits at this URL:  https://thatsthespir.it/api. It is called **t
 - When it works, share the link on your startup's Ryver channel.
 
 ## Bonus
-Do the same exercice using jQuery. Compare the syntax. What are the pros and cons of each approach (jQuery vs Vanilla javascript) ?
+1. Do the same exercice using jQuery. Compare the syntax. What are the pros and cons of each approach (jQuery vs Vanilla javascript) ?
+1. [Read this article](https://dev.to/bjhaid_93/beginners-guide-to-fetching-data-with-ajax-fetch-api--asyncawait-3m1l) on the various ways of performing Ajax requests in Javascript.
