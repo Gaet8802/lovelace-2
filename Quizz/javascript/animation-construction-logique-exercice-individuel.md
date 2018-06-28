@@ -19,7 +19,7 @@ let frigo = [
 {name:"Sandwich", type: "nourriture", stateInPercent: 100 },
 {name:"Saucisson", type: "nourriture", stateInPercent: 23 },
 {name:"Laitue bio", type: "nourriture", stateInPercent: 100 },
-{name:"Oeufs bio", type: "nourriture", stateInPercent: 57 },
+{name:"Boite de 10 Oeufs bio", type: "nourriture", stateInPercent: 60 },
 {name:"Nurofen Enfants", type: "medicament", stateInPercent: 78 }
 ];
 
