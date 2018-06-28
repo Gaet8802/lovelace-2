@@ -27,9 +27,11 @@ let frigo = [
 
 **Explique comment tu résoudrais les problèmes suivants. A chaque fois, décris comment tu stockes les données et ensuite fournis du pseudocode répondant au problème.**
 
+Faire en sorte que l'application puisse: 
+
 1. Afficher tout ce qu'il y a dans le frigo dans une liste html
 1. Afficher une liste html de ce qu'il faut acheter pour remplacer ce qui est entamé
 2. Afficher la réponse à une question du type : "combien d'oeufs reste-t-il?" 
-1. Suggérer des recettes sur base de ce qui est disponible actuellement dans le frigo (tu as accès à un API externe, acceptant une liste d'ingrédients et retournant une ou plusieurs recettes utilisant ces ingrédients. L'API permet de spécifier s'il faut avoir tous les ingrédients ou si elle peut retourner des recettes impliquant de compléter ce qu'on a déjà).
+1. proposer des recettes sur base de ce qui est disponible actuellement dans le frigo.  Tu as accès à un API externe, acceptant une liste d'ingrédients et retournant une ou plusieurs recettes utilisant ces ingrédients. L'API permet de spécifier s'il faut avoir tous les ingrédients ou si elle peut retourner des recettes impliquant de compléter ce qu'on a déjà.
 2. Sur base de ces exercices, as-tu ressenti le besoin de repenser / améliorer la structure de données ? Si oui, comment ?
 
