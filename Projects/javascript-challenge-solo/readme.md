@@ -1,7 +1,7 @@
 # Challenge Javascript
 
 repository : `js-datavisualisation-challenge`   
-mode : `solo`
+mode : `solo`   
 temps imparti : `5 jours` 
 
 ## Finalité de ce challenge
