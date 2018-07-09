@@ -32,7 +32,7 @@ Dans ce fichier html, tu trouveras deux tableaux de données. Grâce au javascri
 Si le javascript est désactivé, le graphique n'apparait pas. Si le javascript est activé, le graphique apparait entre le titre et le tableau.
 
 ### 2. Remote data, in real-time, via ajax
-Des données se trouvent à cet URL : [https://canvasjs.com/services/data/datapoints.php](https://canvasjs.com/services/data/datapoints.php)  
+Des données se trouvent à cet URL : [https://inside.becode.org/api/v1/data/random.json](https://inside.becode.org/api/v1/data/random.json)  
 
 Récupère les données via Ajax, et utilise-les pour insérer un graphique se rafraîchissant toutes les secondes, juste en dessous du titre principal (`h1`) de l'article.
 
