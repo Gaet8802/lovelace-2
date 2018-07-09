@@ -1,8 +1,9 @@
 # Challenge Javascript
 
-repository : `js-datavisualisation-challenge`   
-mode : `solo`   
-temps imparti : `5 jours` 
+Repository : `js-datavisualisation-challenge`   
+Mode : `solo`   
+Temps imparti : `5 jours`   
+Deadline: Jour J+5, 16h30  
 
 ## Finalité de ce challenge
 Ce challenge doit te permettre de :
@@ -66,10 +67,10 @@ Vous pouvez vous entraider à ces deux conditions :
 - tu as d'abord **cherché seul(e)** et tu as **lu ceci** ([Chercher et trouver sur Google 🥇](https://github.com/becodeorg/BeCode/wiki/Chercher-et-trouver-sur-Google-%F0%9F%A5%87)) et cela ([Comment obtenir de l'aide? · BeCode Wiki](https://github.com/becodeorg/BeCode/wiki/Comment-obtenir-de-l'aide%3F)
 - la personne qui aide **ne fournit pas de code tout fait** et **ne code pas à la place de l'autre**. L'objectif reste d'apprendre, pas de résoudre. Le résultat compte moins que le chemin. Aide en posant des questions, en essayant que l'autre trouve la réponse par lui-même.
 
-## Évaluation
+## Remise et Évaluation
 Le mode d'évaluation choisi est une **auto-évaluation** sur base des indicateurs suivants :  
 
-(Ce qui suit est un aperçu, [utilise le formulaire fourni](https://goo.gl/forms/fuKofp7Mh5PAe7bP2) pour t'auto-évaluer. Un coach réalisera la même évaluation.)
+(Ce qui suit est un aperçu, [utilise le formulaire de remise fourni](https://goo.gl/forms/fuKofp7Mh5PAe7bP2) pour t'auto-évaluer. Un coach réalisera la même évaluation.)
 
 ### 1. Manipulation du **DOM** : 
 
