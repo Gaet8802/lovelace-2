@@ -69,7 +69,7 @@ Vous pouvez vous entraider à ces deux conditions :
 ## Évaluation
 Le mode d'évaluation choisi est une **auto-évaluation** sur base des indicateurs suivants :  
 
-(Ce qui suit est un aperçu, utilise le formulaire fourni pour t'auto-évaluer. Un coach réalisera la même évaluation.)
+(Ce qui suit est un aperçu, [utilise le formulaire fourni](https://goo.gl/forms/fuKofp7Mh5PAe7bP2) pour t'auto-évaluer. Un coach réalisera la même évaluation.)
 
 ### 1. Manipulation du **DOM** : 
 
